@@ -1,0 +1,12 @@
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\bin\Debug\net5.0\ProjectEF.Domain.deps.json
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\bin\Debug\net5.0\ProjectEF.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\bin\Debug\net5.0\ProjectEF.Domain.pdb
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.csproj.AssemblyReference.cache
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.AssemblyInfoInputs.cache
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.AssemblyInfo.cs
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.csproj.CoreCompileInputs.cache
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\refint\ProjectEF.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.pdb
+D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ref\ProjectEF.Domain.dll

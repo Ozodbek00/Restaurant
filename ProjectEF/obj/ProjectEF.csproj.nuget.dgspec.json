@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF\\ProjectEF.csproj": {}
+  },
+  "projects": {
+    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj",
+        "projectName": "ProjectEF.Data",
+        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj",
+        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
+        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj",
+        "projectName": "ProjectEF.Domain",
+        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj",
+        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
+        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj",
+        "projectName": "ProjectEF.Service",
+        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj",
+        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
+        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj": {
+                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj"
+              },
+              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.EF6": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF\\ProjectEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF\\ProjectEF.csproj",
+        "projectName": "ProjectEF",
+        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF\\ProjectEF.csproj",
+        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
+        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj": {
+                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj"
+              },
+              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
+              },
+              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj": {
+                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

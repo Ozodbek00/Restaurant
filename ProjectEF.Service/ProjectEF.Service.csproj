@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.EF6" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectEF.Data\ProjectEF.Data.csproj" />
+    <ProjectReference Include="..\ProjectEF.Domain\ProjectEF.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
