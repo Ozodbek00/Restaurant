@@ -48,11 +48,8 @@ namespace ProjectEF.Service.Services.UserService
 
 
         public async Task<IEnumerable<User>> GetAllAsync(Expression<Func<User, bool>> predicate = null)
-        {
-            var lis = userRepo.GetAll(predicate);
-
-            return lis.ToList();
-        }
+            => userRepo.GetAll(predicate);
+        
 
         public async Task<User> GetAsync(Expression<Func<User, bool>> predicate)
         {
@@ -83,11 +80,6 @@ namespace ProjectEF.Service.Services.UserService
             await userRepo.SaveAsync();
 
             return model;
-        }
-
-        public Task SaveAsync()
-        {
-            throw new NotImplementedException();
         }
     }
 }

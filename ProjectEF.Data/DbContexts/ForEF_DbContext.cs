@@ -5,8 +5,6 @@ namespace ProjectEF.Data.DbContexts
 {
     public class ForEF_DbContext : DbContext
     {
-
-
         public DbSet<User> Users { get; set; }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Restaurant> Restaurants { get; set; }

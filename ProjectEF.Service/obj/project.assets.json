@@ -664,7 +664,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.10",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.10",
           "ProjectEF.Domain": "1.0.0"
         },

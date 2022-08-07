@@ -15,6 +15,5 @@ namespace ProjectEF.Service.Interfaces.IProductInterfaces
         Task<Product> UpdateAsync(long id, ProductForCreation item);
         Task<bool> DeleteAsync(Expression<Func<Product, bool>> predicate);
         Task SetAsDeleted(long id, Expression<Func<Product, bool>> predicate);
-        Task SaveAsync();
     }
 }

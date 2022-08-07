@@ -104,10 +104,5 @@ namespace ProjectEF.Service.Services.ProductServices
 
             return product;
         }
-        public Task SaveAsync()
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }

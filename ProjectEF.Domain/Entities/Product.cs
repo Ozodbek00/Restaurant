@@ -11,6 +11,7 @@ namespace ProjectEF.Domain.Entities
         public string Name { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public decimal Price { get; set; }
+        public long Number { get; set; }
         public ProductState ProductState { get; set; }
 
         public long Id { get; set; }

@@ -90,10 +90,5 @@ namespace ProjectEF.Service.Services.RegionServices
 
             return model;
         }
-
-        public Task SaveAsync()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

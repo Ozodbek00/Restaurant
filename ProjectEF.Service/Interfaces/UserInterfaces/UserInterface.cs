@@ -14,6 +14,5 @@ namespace ProjectEF.Service.Interfaces.UserInterfaces
         Task<User> CreateAsync(UserForCreation item);
         Task<User> UpdateAsync(long id, UserForUpdate item);
         Task<bool> DeleteAsync(Expression<Func<User, bool>> predicate);
-        Task SaveAsync();
     }
 }

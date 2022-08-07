@@ -14,6 +14,5 @@ namespace ProjectEF.Service.Interfaces.RegionInterfaces
         Task<Region> CreateAsync(RegionForCreation item);
         Task<Region> UpdateAsync(long id, RegionForCreation item);
         Task<bool> DeleteAsync(Expression<Func<Region, bool>> predicate);
-        Task SaveAsync();
     }
 }

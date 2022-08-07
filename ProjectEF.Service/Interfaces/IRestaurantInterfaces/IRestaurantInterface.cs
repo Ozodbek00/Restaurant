@@ -14,6 +14,5 @@ namespace ProjectEF.Service.Interfaces.RestaurantInterfaces
         Task<Restaurant> CreateAsync(RestaurantForCreation item);
         Task<Restaurant> UpdateAsync(long id, RestaurantForUpdate item);
         Task<bool> DeleteAsync(Expression<Func<Restaurant, bool>> predicate);
-        Task SaveAsync();
     }
 }

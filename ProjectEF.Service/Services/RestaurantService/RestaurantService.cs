@@ -91,10 +91,5 @@ namespace ProjectEF.Service.Services.RestaurantService
 
             return model;
         }
-
-        public Task SaveAsync()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
