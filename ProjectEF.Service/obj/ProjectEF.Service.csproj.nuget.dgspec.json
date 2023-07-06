@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj": {}
+    "D:\\New folder\\Restaurant\\ProjectEF.Service\\ProjectEF.Service.csproj": {}
   },
   "projects": {
-    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj": {
+    "D:\\New folder\\Restaurant\\ProjectEF.Data\\ProjectEF.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj",
+        "projectUniqueName": "D:\\New folder\\Restaurant\\ProjectEF.Data\\ProjectEF.Data.csproj",
         "projectName": "ProjectEF.Data",
-        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj",
-        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
-        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\obj\\",
+        "projectPath": "D:\\New folder\\Restaurant\\ProjectEF.Data\\ProjectEF.Data.csproj",
+        "packagesPath": "C:\\Users\\siddi\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\Restaurant\\ProjectEF.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siddi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
-                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
+              "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+                "projectPath": "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
               }
             }
           }
@@ -61,30 +65,49 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+    "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj",
+        "projectUniqueName": "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj",
         "projectName": "ProjectEF.Domain",
-        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj",
-        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
-        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\obj\\",
+        "projectPath": "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj",
+        "packagesPath": "C:\\Users\\siddi\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\Restaurant\\ProjectEF.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siddi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,30 +144,49 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj": {
+    "D:\\New folder\\Restaurant\\ProjectEF.Service\\ProjectEF.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj",
+        "projectUniqueName": "D:\\New folder\\Restaurant\\ProjectEF.Service\\ProjectEF.Service.csproj",
         "projectName": "ProjectEF.Service",
-        "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\ProjectEF.Service.csproj",
-        "packagesPath": "C:\\Users\\O'tkirbek\\.nuget\\packages\\",
-        "outputPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Service\\obj\\",
+        "projectPath": "D:\\New folder\\Restaurant\\ProjectEF.Service\\ProjectEF.Service.csproj",
+        "packagesPath": "C:\\Users\\siddi\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\Restaurant\\ProjectEF.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\O'tkirbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siddi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,11 +200,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj": {
-                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Data\\ProjectEF.Data.csproj"
+              "D:\\New folder\\Restaurant\\ProjectEF.Data\\ProjectEF.Data.csproj": {
+                "projectPath": "D:\\New folder\\Restaurant\\ProjectEF.Data\\ProjectEF.Data.csproj"
               },
-              "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
-                "projectPath": "D:\\Ozodbekkkkk\\Codes\\DotNet\\ProjectEF\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
+              "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj": {
+                "projectPath": "D:\\New folder\\Restaurant\\ProjectEF.Domain\\ProjectEF.Domain.csproj"
               }
             }
           }
@@ -188,16 +230,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

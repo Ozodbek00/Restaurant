@@ -10,3 +10,15 @@ D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectE
 D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\refint\ProjectEF.Domain.dll
 D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.pdb
 D:\Ozodbekkkkk\Codes\DotNet\ProjectEF\ProjectEF.Domain\obj\Debug\net5.0\ref\ProjectEF.Domain.dll
+D:\New folder\Restaurant\ProjectEF.Domain\bin\Debug\net5.0\ProjectEF.Domain.deps.json
+D:\New folder\Restaurant\ProjectEF.Domain\bin\Debug\net5.0\ProjectEF.Domain.dll
+D:\New folder\Restaurant\ProjectEF.Domain\bin\Debug\net5.0\ProjectEF.Domain.pdb
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.csproj.AssemblyReference.cache
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.AssemblyInfoInputs.cache
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.AssemblyInfo.cs
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.csproj.CoreCompileInputs.cache
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.dll
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\refint\ProjectEF.Domain.dll
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ProjectEF.Domain.pdb
+D:\New folder\Restaurant\ProjectEF.Domain\obj\Debug\net5.0\ref\ProjectEF.Domain.dll
