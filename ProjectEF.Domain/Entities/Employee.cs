@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ProjectEF.Domain.Entities
 {
-    public class Employee : IAuditable
+    public sealed class Employee : IAuditable
     {
         public long RestaurantId { get; set; }
         public Restaurant Restaurant { get; set; }
